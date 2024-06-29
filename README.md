@@ -1,10 +1,6 @@
 <h1 align="center">Привет, я Новорский 👋 </h1>
 <h3 align="center">Java, Python Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=novorsky&label=Profile%20views&color=0e75b6&style=flat" alt="novorsky" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src=" https://github-profile-trophy.vercel.app/?username=novorsky" alt="novorsky" /></a> </p>
-
 ⚡ Забавный факт **Я киска**<
 
 <p align="left">
