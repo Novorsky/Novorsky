@@ -5,11 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src=" https://github-profile-trophy.vercel.app/?username=novorsky" alt="novorsky" /></a> </p>
 
-- 🌱 Теперь я изучаю **Python**-
-
 ⚡ Забавный факт **Я киска**<
 
-h3 align="left">Свяжитесь со мной:</h3>
 <p align="left">
 </p>
 
